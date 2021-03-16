@@ -1,0 +1,12 @@
+D:\lab1\GUI_LAB\GUI-1\Task1-3\GUI-1\bin\Debug\GUI-1.exe.config
+D:\lab1\GUI_LAB\GUI-1\Task1-3\GUI-1\bin\Debug\GUI-1.exe
+D:\lab1\GUI_LAB\GUI-1\Task1-3\GUI-1\bin\Debug\GUI-1.pdb
+D:\lab1\GUI_LAB\GUI-1\Task1-3\GUI-1\obj\Debug\GUI-1.csprojAssemblyReference.cache
+D:\lab1\GUI_LAB\GUI-1\Task1-3\GUI-1\obj\Debug\GUI_1.nForm.resources
+D:\lab1\GUI_LAB\GUI-1\Task1-3\GUI-1\obj\Debug\GUI_1.Properties.Resources.resources
+D:\lab1\GUI_LAB\GUI-1\Task1-3\GUI-1\obj\Debug\GUI_1.Task1.resources
+D:\lab1\GUI_LAB\GUI-1\Task1-3\GUI-1\obj\Debug\GUI_1.Task2.resources
+D:\lab1\GUI_LAB\GUI-1\Task1-3\GUI-1\obj\Debug\GUI-1.csproj.GenerateResource.cache
+D:\lab1\GUI_LAB\GUI-1\Task1-3\GUI-1\obj\Debug\GUI-1.csproj.CoreCompileInputs.cache
+D:\lab1\GUI_LAB\GUI-1\Task1-3\GUI-1\obj\Debug\GUI-1.exe
+D:\lab1\GUI_LAB\GUI-1\Task1-3\GUI-1\obj\Debug\GUI-1.pdb

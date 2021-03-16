@@ -1,0 +1,11 @@
+D:\lab1\GUI_LAB\GUI-1\Task4(MDI)\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe.config
+D:\lab1\GUI_LAB\GUI-1\Task4(MDI)\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe
+D:\lab1\GUI_LAB\GUI-1\Task4(MDI)\MdiApplication\MdiApplication\bin\Debug\MdiApplication.pdb
+D:\lab1\GUI_LAB\GUI-1\Task4(MDI)\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csprojAssemblyReference.cache
+D:\lab1\GUI_LAB\GUI-1\Task4(MDI)\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ChildForm.resources
+D:\lab1\GUI_LAB\GUI-1\Task4(MDI)\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ParentForm.resources
+D:\lab1\GUI_LAB\GUI-1\Task4(MDI)\MdiApplication\MdiApplication\obj\Debug\MdiApplication.Properties.Resources.resources
+D:\lab1\GUI_LAB\GUI-1\Task4(MDI)\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.GenerateResource.cache
+D:\lab1\GUI_LAB\GUI-1\Task4(MDI)\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.CoreCompileInputs.cache
+D:\lab1\GUI_LAB\GUI-1\Task4(MDI)\MdiApplication\MdiApplication\obj\Debug\MdiApplication.exe
+D:\lab1\GUI_LAB\GUI-1\Task4(MDI)\MdiApplication\MdiApplication\obj\Debug\MdiApplication.pdb
